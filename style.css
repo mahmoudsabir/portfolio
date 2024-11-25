@@ -508,10 +508,17 @@ a{
     #home .header-content{
         display: block;
     }
+    #home .header-content .content-text{
+        padding: 15px;
+    }
 
     #home .header-content img{
+        display: flex;
+        margin: auto;
+        margin-top: 45px;
         width: 100px;
         height: 100px;
+        border-radius: 5px 5px 10px 30px;
     }
     
     #home .header-content .content-text{
