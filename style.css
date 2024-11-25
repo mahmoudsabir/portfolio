@@ -381,11 +381,10 @@ a{
 #portfolio .row .item img{
     max-width: 100%;
     border-bottom: 2px solid #ccc;
-    border-top-left-radius: 5px;      /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
-    border-top-right-radius: 5px;      /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+    border-top-left-radius: 5px;      
+    border-top-right-radius: 5px;      
 }
 /* End Portfolio Section */
-
 
 /* start contact Section */
 #contact{
@@ -496,7 +495,7 @@ a{
     }
 
     #home .navbar nav ul a{
-        margin: 8px;
+        margin: 5px;
     }
 
     
